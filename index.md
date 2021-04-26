@@ -1,15 +1,31 @@
-## Yun-Bo Lv（吕允博）
-- B.Eng. from School of Information Engineering, Yangzhou University
-- 
+## 吕允博 
+## Yun-Bo Lv
+### Bachelor of Engineering
+
+---
+
+
+## Correspondence:
+**Address:** 2516 School of Information Engineering, 198 Huayangxi Road, Yangzhou, China.
+**Email**: yunbolv@gmail.com **OR** 171301211@yzu.edu.cn
+
+---
+My research interests mainly include machine learning, data mining and game theory. Currently, I am preparing for postgraduate entrance examinationa. student at the 2516 Group, School of Information Engineering, Yangzhou University. Before joining Southeast University, I worked as an assistant professor (2007.10~2010.5) at the College of Computer and Information Engineering, Hohai University.
+
+I received my B.Sc. in electronic information engineering from Department of Information Engineering, Yangzhou University, China, in 2021.(Supervised by Prof. Junwu Zhu) 
+
+For related information and resources, please navigate via the links in the left bar. Contact me if you have any problems there.
+---
 
 ## Publications
 
-
 ### Conference
+1. Shi J, Zhu J, Jian L I, et al. An efficient double auction mechanism for job allocation[C]//2019 IEEE 23rd international conference on computer supported cooperative work in design (CSCWD). IEEE, 2019: 63-68.
 
 ### Journal
+1. Lv Y, Zhu J, Jiang Y. Using EGDL to represent domain knowledge for imperfect information automated negotiations[J]. Journal of Ambient Intelligence and Humanized Computing, 2020: 1-9.
 
-- List
+2. Yuntao Xu, Junwu Zhu, Yunbo Lv. Proof of Engagement: a Flexible Blockchain Consensus Mechanism[J]. Journal of Ambient Intelligence and Humanized Computing, 2020: 1-9.
 
 
 
