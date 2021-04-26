@@ -1,12 +1,15 @@
 ## Yun-Bo Lv（吕允博）
-I'm currently a student at Yangzhou University.
+- B.Eng. from School of Information Engineering, Yangzhou University
+- 
 
 ## Publications
 
+
 ### Conference
+
 ### Journal
 
-# 
+- List
 
 
 
