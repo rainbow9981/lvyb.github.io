@@ -13,7 +13,7 @@ Bachelor of Engineering
 ---
 My research interests mainly include machine learning, game theory and game description language. Currently, I am preparing for postgraduate entrance examinationa. 
 
-I received my B.Sc. in electronic information engineering from *Department of Information Engineering*, *Yangzhou University*, China, in 2021. I was also a member of 2516 Group led by my supervisor **Prof. Junwu Zhu**.
+I received my B.Sc. in electronic information engineering from [School of Information Engineering](http://xxgcxy.yzu.edu.cn/), [Yangzhou University](http://www.yzu.edu.cn/), China, in 2021. I was also a member of 2516 Group led by my supervisor [Prof. Junwu Zhu](http://xxgcxy.yzu.edu.cn/art/2019/8/16/art_52161_708863.html).
 
 For related information and resources, please navigate via the links in the left bar. Contact me if you have any problems there.
 
@@ -21,7 +21,8 @@ For related information and resources, please navigate via the links in the left
 Last Modified: 2021-04-26
 
 
-## Publications
+## Publication
+---
 ### Conference
 1. Shi J, Zhu J, Jian L I, et al. An efficient double auction mechanism for job allocation[C]//2019 IEEE 23rd international conference on computer supported cooperative work in design (CSCWD). IEEE, 2019: 63-68.
 
@@ -29,6 +30,20 @@ Last Modified: 2021-04-26
 1. Lv Y, Zhu J, Jiang Y. Using EGDL to represent domain knowledge for imperfect information automated negotiations[J]. Journal of Ambient Intelligence and Humanized Computing, 2020: 1-9.
 
 2. Yuntao Xu, Junwu Zhu, Yunbo Lv. Proof of Engagement: a Flexible Blockchain Consensus Mechanism[J]. Journal of Ambient Intelligence and Humanized Computing, 2021: 1-9.
+
+### Talks
+---
+1. "Research on the general game negotiation mechanism among agents based on GGP", Yangzhou University, Yangzhou, China, January 2020.  
+
+
+### Awards
+---
+1. Outstanding Graduate Award of Yangzhou University, 2021.
+2. Excellent summer camper of th School of Software Engineering, Southeast University, 2020.
+
+
+
+
 
 
 
